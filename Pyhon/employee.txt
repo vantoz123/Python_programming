@@ -1,0 +1,4 @@
+John = Manager
+Oliver = PrincipleOscar = Accountant
+Oscar = Accountant
+Kelly = Customer Service
